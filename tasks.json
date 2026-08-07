@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "audio_url": "https://soundhelix.com",
+    "correct_term": "developer",
+    "hint": "Человек, который пишет код и создает программы"
+  },
+  {
+    "id": 2,
+    "audio_url": "https://soundhelix.com",
+    "correct_term": "application",
+    "hint": "Программа на смартфоне или компьютере"
+  }
+]
