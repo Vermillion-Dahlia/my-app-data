@@ -1,14 +1,8 @@
 [
   {
     "id": 1,
-    "audio_url": "https://soundhelix.com",
-    "correct_term": "developer",
-    "hint": "Человек, который пишет код и создает программы"
-  },
-  {
-    "id": 2,
-    "audio_url": "https://soundhelix.com",
-    "correct_term": "application",
-    "hint": "Программа на смартфоне или компьютере"
+    "audio_url": "https://github.com/Vermillion-Dahlia/my-app-data/blob/main/task1.mp3",
+    "correct_term": "overwhelmingly bullish",
+  
   }
 ]
